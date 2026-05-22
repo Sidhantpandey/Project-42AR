@@ -1,0 +1,24 @@
+{
+  "name": "project42ar",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sidhantpandey/Project-42AR.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/Sidhantpandey/Project-42AR/issues"
+  },
+  "homepage": "https://github.com/Sidhantpandey/Project-42AR#readme",
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
