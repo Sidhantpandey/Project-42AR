@@ -1,1 +1,17 @@
-{"level":30,"time":1779513792925,"pid":22722,"hostname":"sidhant","port":3000,"msg":"Server is running"}
+{"level":30,"time":1779700881418,"pid":27234,"hostname":"sidhant","msg":"Server running on port 3000"}
+{"level":30,"time":1779700941953,"pid":27417,"hostname":"sidhant","msg":"Server running on port 3000"}
+{"level":30,"time":1779700942884,"pid":27440,"hostname":"sidhant","msg":"Server running on port 3000"}
+{"level":30,"time":1779700947050,"pid":27487,"hostname":"sidhant","msg":"Server running on port 3000"}
+{"level":30,"time":1779700948965,"pid":27440,"hostname":"sidhant","method":"GET","path":"/health","ip":"::1","msg":"Incoming request"}
+{"level":50,"time":1779700948994,"pid":27440,"hostname":"sidhant","err":{"type":"ApiError","message":"Python service is unreachable","stack":"Error: Python service is unreachable\n    at Object.getServiceStatus (file:///home/devsid/project42ar/ingestor/app/services/ragService.js:17:11)\n    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)\n    at async file:///home/devsid/project42ar/ingestor/app/controllers/healthController.js:6:18","aggregateErrors":[],"statusCode":503,"data":null,"success":false,"errors":[]},"path":"/health","msg":"Python service is unreachable"}
+{"level":30,"time":1779700949006,"pid":27440,"hostname":"sidhant","method":"GET","path":"/bad","ip":"::1","msg":"Incoming request"}
+{"level":30,"time":1779700961444,"pid":27582,"hostname":"sidhant","msg":"Server running on port 3000"}
+{"level":30,"time":1779700987070,"pid":27828,"hostname":"sidhant","msg":"Server running on port 3000"}
+{"level":30,"time":1779700988614,"pid":27861,"hostname":"sidhant","msg":"Server running on port 3000"}
+{"level":30,"time":1779701136298,"pid":28056,"hostname":"sidhant","msg":"Server running on port 3000"}
+{"level":30,"time":1779701138797,"pid":28099,"hostname":"sidhant","msg":"Server running on port 3000"}
+{"level":30,"time":1779701143820,"pid":28158,"hostname":"sidhant","msg":"Server running on port 3000"}
+{"level":30,"time":1779701147348,"pid":28197,"hostname":"sidhant","msg":"Server running on port 3000"}
+{"level":30,"time":1779701150557,"pid":28254,"hostname":"sidhant","msg":"Server running on port 3000"}
+{"level":30,"time":1779701495521,"pid":28360,"hostname":"sidhant","msg":"Server running on port 3000"}
+{"level":30,"time":1779701505038,"pid":28428,"hostname":"sidhant","msg":"Server running on port 3000"}
