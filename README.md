@@ -103,3 +103,4 @@ Python AI Service
       v
 Vector DB / LLM Response
 ```
+<img width="1440" height="1640" alt="image" src="https://github.com/user-attachments/assets/18752b78-844d-42ab-ba81-d23d33c07683" />
