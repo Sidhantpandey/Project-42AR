@@ -1,0 +1,50 @@
+# Virtual environments
+venv/
+.venv/
+env/
+
+# Environment files
+.env
+.env.*
+!.env.sample
+
+# Python cache/bytecode
+__pycache__/
+**/__pycache__/
+*.py[cod]
+*$py.class
+
+# VS Code
+.vscode/
+
+# OS Files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# ChromaDB Persistent Storage
+chroma_data/
+
+# HuggingFace / Transformer Cache
+.cache/
+hf_cache/
+
+# Pytest
+.pytest_cache/
+
+# Coverage
+.coverage
+htmlcov/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Build Files
+dist/
+build/
+*.egg-info/
+
+# SQLite
+*.sqlite3
