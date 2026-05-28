@@ -8,3 +8,9 @@ class LogRequest(BaseModel):
 
 class QueryRequest(BaseModel):
     query: str
+
+
+class AgenticQueryResponse(BaseModel):
+    query: str
+    answer: str
+    contexts: list[str]
